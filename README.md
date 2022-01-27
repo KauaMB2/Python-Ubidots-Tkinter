@@ -14,6 +14,6 @@
 [![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Python](https://img.shields.io/badge/python-1572B6?style=for-the-badge&logo=python&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 <hr>
-<li> Foto do jogo:
+<li> Foto da Interfáce Gráfica:
 
 <img src="img\imgInterface.png" class="img"></a>
