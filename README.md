@@ -1,4 +1,4 @@
-# Ubidots Python
+# Ubidots Python + Tkinter
 
 >  O intuito desse commit é deixar salvo um exemplo em Python de uma conexão feita com o Ubidots(Plataforma de IoT), através de uma interface gráfica(Tkinter).
 
